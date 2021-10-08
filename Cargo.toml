@@ -1,0 +1,9 @@
+[package]
+name = "rawpnt"
+version = "0.1.0"
+edition = "2018"
+authors = ["Daniel P. Teberian"]
+description = "Provides additional methods for raw pointers."
+repository = "https://github.com/LibertyOS-Development/rawpnt.git"
+categories = ["no-std"]
+license = "Apache-2.0"
